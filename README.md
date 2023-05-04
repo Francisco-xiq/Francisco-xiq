@@ -1,21 +1,11 @@
-### Greetings, adventurer 👋
-# Welcome to my humble abode on GitHub:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-xiq&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Greetings Friend 👋
+### Welcome to my humble abode on GitHub:
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-xiq&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-xiq&theme=dark&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.instagram.com/francisco.psf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-xiq)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-**Francisco-xiq/Francisco-xiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
