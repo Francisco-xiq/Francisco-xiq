@@ -88,11 +88,15 @@ DevOps / SRE student at **Federal University of Campina Grande (UFCG)**, graduat
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francisco-xiq&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c89b3c&icon_color=c89b3c&text_color=a8b3cf" alt="Francisco's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-xiq&theme=dark&hide_border=true&bg_color=0d1117&title_color=c89b3c&text_color=a8b3cf&layout=compact" alt="Top Languages" />
-</div>
+
+<table align="center"><tr><td valign="top">
+[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-xiq&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c89b3c&icon_color=c89b3c&text_color=a8b3cf)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</td><td valign="top">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-xiq&theme=dark&hide_border=true&bg_color=0d1117&title_color=c89b3c&text_color=a8b3cf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</td></tr></table>
+
 
 ---
 
