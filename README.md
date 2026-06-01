@@ -88,6 +88,13 @@ DevOps / SRE student at **Federal University of Campina Grande (UFCG)**, graduat
 
 ## GitHub Stats
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Francisco-xiq&include_all_commits=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c89b3c&icon_color=c89b3c&text_color=a8b3cf" alt="Francisco's GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-xiq&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true&bg_color=0d1117&title_color=c89b3c&text_color=a8b3cf" alt="Top Languages" />
+</a>
+
 ---
 
 ## Education
